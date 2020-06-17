@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
+import child from ' ./child'
 
 function App() {
   return (
     <div>
-      <h1>hhjhjg</h1>  </div>
+      <child />  
+      </div>
   );
 }
 
