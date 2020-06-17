@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-function Child() {
+function child() {
   return (
     <div>
       <h1>this is child</h1> 
@@ -10,4 +10,4 @@ function Child() {
   );
 }
 
-export default Child;
+export default child;
